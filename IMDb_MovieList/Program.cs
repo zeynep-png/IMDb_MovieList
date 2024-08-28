@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 
 List<Movie> movieList = new List<Movie>();
-
+//DEGİSİKLİK
 bool continueAdding = true;
 while (continueAdding)
 {
